@@ -38,7 +38,7 @@ Currently, I am a Software Engineering student at Wuhan University. A confident,
 
 - <img width=20px src="https://em-content.zobj.net/source/skype/289/man-mechanic_1f468-200d-1f527.png"> I’m currently working on SLAM
 - <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/writing-hand_270d-fe0f.png"> I’m currently learning Robotics and Machine Learning
-- <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png"> I’m looking to collaborate on softwere architecture
+- <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png"> I’m looking to collaborate on Software architecture
 - <img width=20px src="https://em-content.zobj.net/source/noto-emoji-animations/344/thinking-face_1f914.gif"> I’m looking for help with ...
 - <img width=20px src="https://em-content.zobj.net/source/skype/289/face-with-symbols-on-mouth_1f92c.png"> Ask me about Robotics and Machine Learning
 - <img width=20px src="https://em-content.zobj.net/source/skype/289/mobile-phone_1f4f1.png"> How to reach me: WeChat: shamim_10010
