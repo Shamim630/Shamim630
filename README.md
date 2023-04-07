@@ -34,6 +34,19 @@
 <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/vividblueprint/vividblueprint">
 </p>
 
+```mermaid
+  gitGraph
+    commit
+    commit
+    branch develop
+    commit
+    commit
+    commit
+    checkout main
+    commit
+    commit
+```
+
 Currently, I am a Software Engineering student at Wuhan University. A confident, creative, enthusiastic, adaptive, and fast-learning person who is highly motivated, willing to learn new things, and comes to you with theoretical and technical skills and a solid academic background in computer science and technology. I am seeking the opportunity to learn new things and a challenging work environment that will encourage me to do my best for the sake of helping myself and the university advance in the field of computer science and technology.
 
 - <img width=20px src="https://em-content.zobj.net/source/skype/289/man-mechanic_1f468-200d-1f527.png"> I’m currently working on SLAM
