@@ -63,7 +63,7 @@ Currently, I am a Software Engineering student at Wuhan University. A confident,
 <a href="(https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=vividblueprint&label=Profile%20Views&icon=8&pretty=false"/>
 </a>
 <h1><img width=50px src="https://em-content.zobj.net/source/skype/289/desert-island_1f3dd-fe0f.png"/> Socials:</h1>
-<p align="right"><a href="https://www.facebook.com/profile.php?id=100087242254904"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+<p align="right"><a href="https://www.facebook.com/shamimahamed10010"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shamim-khan-0b60571ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a></p>
 
 # <img width = 50x src="https://em-content.zobj.net/source/skype/289/video-game_1f3ae.png"/> Tech Stack:
